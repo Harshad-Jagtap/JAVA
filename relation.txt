@@ -1,0 +1,12 @@
+class relation
+{
+public static void main(String[] args)
+{
+int a=4;
+int b=5;
+int c=8;
+int d;
+d=a+++b+--c+c--+a+b--b+c;
+System.out.println("answer is "+d);
+}
+}
